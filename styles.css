@@ -175,3 +175,37 @@ color: #191919 !important;
 font-weight: 400;
 font-family: 'DM Sans', sans-serif !important;
 }
+
+
+/*mobile responsive*/
+@media screen and (max-width: 500px){
+.massive-cont {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+  .sec-title {
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    display: block;
+  }
+  .sec-title > h1{
+    font-size: 9vw;
+    margin: 10px 10px 30px 10px;
+  }
+  .container {
+    width: 90%;
+    margin: auto;
+    display: block;
+  }
+  .accordion button{
+    font-size: 4vw;
+    font-weight: 600;
+  }
+  .accordion .accordion-content p {
+    font-size: 3.8vw;
+  }
+  
+}
