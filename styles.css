@@ -192,6 +192,7 @@ font-family: 'DM Sans', sans-serif !important;
     display: block;
   }
   .sec-title > h1{
+    text-align: center;
     font-size: 9vw;
     margin: 10px 10px 30px 10px;
   }
