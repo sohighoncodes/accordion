@@ -21,19 +21,23 @@ html, body {
   width: 80%;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 .sec-title{
   width: 38%;
+  display: flex;
+  align-items: start;
 }
 
 .sec-title > h1{
+  font-weight: 600;
   margin: 10px;
   font-size: 1.5rem;
 }
 
 .container {
   width: 61%;
+  display: flex;
+  align-items: center;
 }
 
 .accordion button {
