@@ -11,7 +11,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #fff;
-  color: black;
+  color: #181818;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,6 +29,7 @@ html, body {
 }
 
 .sec-title > h1{
+  color: #181818;
   font-weight: 600;
   margin: 10px;
   font-size: 1.5rem;
@@ -86,7 +87,7 @@ display: block;
 text-align: left;
 width: 100%;
 padding: 1em 0;
-color: black;
+color: #181818;
 font-size: 1.15rem;
 font-weight: 700;
 border: none;
@@ -97,14 +98,14 @@ outline: none;
 .accordion button:hover,
 .accordion button:focus {
 cursor: pointer;
-color: black;
+color: #181818;
 }
 
 .accordion button:hover::after,
 .accordion button:focus::after {
 cursor: pointer;
-color: black;
-border: 1px solid black;
+color: #181818;
+border: 1px solid #181818;
 }
 
 .accordion button .accordion-title {
@@ -144,7 +145,7 @@ background: currentColor;
 }
 
 .accordion button[aria-expanded='true'] {
-color: black;
+color: #181818;
 }
 .accordion button[aria-expanded='true'] .icon::after {
 width: 0;
@@ -170,7 +171,7 @@ margin: 2em 0;
 }
 body > div > div.container > div > div:nth-child(1) > div > p, body > div > div.container > div > div:nth-child(2) > div > p, body > div > div.container > div > div:nth-child(3) > div > p, body > div > div.container > div > div:nth-child(4) > div > p, body > div > div.container > div > div:nth-child(5) > div > p{
 margin: 0 0 20px 0;
-color: black !important;
+color: #191919 !important;
 font-weight: 400;
 font-family: 'DM Sans', sans-serif !important;
 }
