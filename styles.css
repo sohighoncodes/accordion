@@ -18,7 +18,6 @@ html, body {
 }
 
 .massive-cont{
-  padding: 60px 20px;
   width: 80%;
   display: flex;
   flex-direction: column;
