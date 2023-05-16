@@ -23,6 +23,9 @@ html, body {
   flex-direction: column;
   align-items: center;
 }
+.sec-title{
+  width: 38%;
+}
 
 .sec-title > h1{
   margin: 10px;
@@ -30,7 +33,7 @@ html, body {
 }
 
 .container {
-  width: 100%;
+  width: 61%;
 }
 
 .accordion button {
