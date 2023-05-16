@@ -11,7 +11,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #fff;
-  color: #181818;
+  color: #181818 !important;
   display: flex;
   justify-content: center;
   align-items: center;
