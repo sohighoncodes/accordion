@@ -18,7 +18,8 @@ html, body {
 }
 
 .massive-cont{
-  height: 40vh;
+  align-items: start;
+  height: 100vh
   width: 80%;
   display: flex;
   flex-direction: column;
