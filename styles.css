@@ -178,6 +178,23 @@ font-weight: 400;
 font-family: 'DM Sans', sans-serif !important;
 }
 
+@media screen and (max-width: 1300px){
+  
+  .accordion button{
+    font-size: 1.3vw;
+  }
+  #label_5{
+	font-size: 19px;
+}
+#label_input_5_0{
+	font-size: 11px;
+}
+  div.sec-title > h1{
+    font-size: 3.5vw;
+  }
+}
+
+
 
 /*mobile responsive*/
 @media screen and (max-width: 500px){
