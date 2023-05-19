@@ -179,7 +179,9 @@ font-family: 'DM Sans', sans-serif !important;
 }
 
 @media screen and (max-width: 1300px){
-  
+  .accordion .accordion-content p{
+	font-size: 1.3vw;
+}
   .accordion button{
     font-size: 1.3vw;
   }
