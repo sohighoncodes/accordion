@@ -233,5 +233,9 @@ font-family: 'DM Sans', sans-serif !important;
   .accordion .accordion-content p {
     font-size: 3.8vw;
   }
-  
+  @media screen and (max-width: 480px){
+.sec-title > h1 {
+    text-align: center;
+    font-size: 9vw !important;
 }
+	}
